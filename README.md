@@ -1,5 +1,5 @@
 # Simple-Modular-Neural-Network
--Alexander Sweet
+-Alexander Sweet and Ludwig Lechtreck
 
 
 Modular ANN for simple classification problems. 
