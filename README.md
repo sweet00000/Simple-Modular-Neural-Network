@@ -1,6 +1,6 @@
 # Simple-Modular-Neural-Network
 -Alexander Sweet and Ludwig Lechtreck
-
+https://github.com/LFLATH/TAI
 
 Modular ANN for simple classification problems. 
 
